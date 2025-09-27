@@ -2,7 +2,8 @@
 class: exclude-hashira
 ---
 
-# ゆめみ大技林 <!--'23-->
+# AWSネットワーク設計の勘所 10のポイント
+ <!--'23-->
 
 <nav id="toc" role="doc-toc">
 
