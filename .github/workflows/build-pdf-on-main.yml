@@ -4,12 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'book/**'
-      - 'Makefile'
-      - 'package.json'
-      - 'yarn.lock'
-
 jobs:
   build-pdf:
     runs-on: ubuntu-latest
