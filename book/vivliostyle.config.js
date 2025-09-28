@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'モブエンジニアの書庫 ' /*\'23'*/,
+  title: 'モブエンジニアの書庫 ',
   author: 'モブエンジニア',
   language: 'ja',
   size: 'A5',
