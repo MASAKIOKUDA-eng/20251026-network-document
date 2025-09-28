@@ -10,6 +10,7 @@ class: exclude-hashira
 ## 目次
 
 1. [はじめに](preface.html)
+1. [設計時のチームスキルに応じてサービスを選ぶ](section1.html)
 1. [ゆめみ大技林製作委員会とは](preface.html)
 1. [サンプル](sample_chapter.html)
 
