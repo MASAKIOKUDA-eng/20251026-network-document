@@ -2,7 +2,7 @@
 class: exclude-hashira
 ---
 
-# AWSネットワーク設計の勘所 10のポイント
+# AWSでNW設計を行うときに意識したい10のこと
  <!--'23-->
 
 <nav id="toc" role="doc-toc">

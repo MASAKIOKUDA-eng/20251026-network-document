@@ -8,7 +8,7 @@ class: exclude-hashira
 
 <section class="colophon">
 
-## ～～後で修正～～ <!--'23-->
+## AWSでNW設計を行うときに意識したい10のこと <!--'23-->
 
 <!--2023年5月15日--> 初版
 
