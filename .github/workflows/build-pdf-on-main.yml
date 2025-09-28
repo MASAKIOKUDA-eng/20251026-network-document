@@ -1,0 +1,35 @@
+name: Build PDF on Push to main
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'book/**'
+      - 'Makefile'
+      - 'package.json'
+      - 'yarn.lock'
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: yarn install --immutable
+
+      - name: Build PDF
+        run: make pdf
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ebook-pdf
+          path: book/output/ebook.pdf
