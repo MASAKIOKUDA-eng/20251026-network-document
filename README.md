@@ -100,6 +100,8 @@ textlint を無効にしたい文章をここに書く
 yarn install
 ```
 
+test
+
 プレス版の PDF をビルドするには、Ghostscript および Xpdf も必要になります。次のコマンドでインストールします。
 
 ```shell
