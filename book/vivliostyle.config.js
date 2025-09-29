@@ -17,6 +17,7 @@ module.exports = {
     'docs/section1.md', //設計時のチームスキルに応じてサービスを選ぶ
     'docs/section2.md', //陳腐化しない構成図を書いてみる
     'docs/section3.md', //VPCで利用するアドレス範囲は慎重に
+    'docs/section4.md', //リソース名は誰もが分かる名称を付ける
     // 会社紹介（必要なら以下をアンコメントして利用、掲載時は頒布イベントの出展要項に注意）
     // 'yumemi.md',
     // 著者紹介
