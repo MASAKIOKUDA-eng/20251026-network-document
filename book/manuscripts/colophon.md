@@ -25,7 +25,7 @@ class: exclude-hashira
   </div>
   <div class="colophon-row">
     <div class="colophon-label">印刷</div>
-    <div class="colophon-value"><!-- 日光企画 --></div>
+    <div class="colophon-value">しまなみ出版</div>
   </div>
   <div class="colophon-row">
     <div class="colophon-label">連絡先</div>
