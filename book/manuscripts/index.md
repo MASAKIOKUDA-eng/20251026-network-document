@@ -2,7 +2,7 @@
 class: exclude-hashira
 ---
 
-# AWSでNW設計を行うときに意識したい10のこと
+# AWSでNW設計を行うときに意識したい5つのこと
  <!--'23-->
 
 <nav id="toc" role="doc-toc">
@@ -14,4 +14,5 @@ class: exclude-hashira
 1. [陳腐化しない構成図を書いてみる](section2.html)
 1. [VPCで利用するアドレス範囲は慎重に](section3.html)
 1. [リソース名は誰もが分かる名称を付ける](section4.html)
+1. [セキュリティグループの設定は柔軟性を持たせる](section5.html)
 </nav>
