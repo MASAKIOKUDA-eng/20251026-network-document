@@ -1,6 +1,4 @@
 ---
-class: exclude-hashira
----
 
 <!-- markdownlint-disable MD041 -->
 <hr class="page-break" />
