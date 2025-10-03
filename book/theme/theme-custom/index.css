@@ -13,3 +13,9 @@
 
 /* スタイル一般 */
 @import url(./themes/styles.css);
+
+/* タイトル（h1）フォントサイズ調整 */
+h1 {
+	font-size: 1.6em;
+	font-weight: bold;
+}
