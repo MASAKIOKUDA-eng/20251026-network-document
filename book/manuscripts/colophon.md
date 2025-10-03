@@ -6,7 +6,7 @@
 
 <section class="colophon">
 
-## （AWS）でNW設計を行うときに意識したい5つのこと <!--'23-->
+## AWSでNW設計を行うときに意識したい5つのこと <!--'23-->
 
 <!--2023年5月15日--> 初版
 
@@ -18,12 +18,8 @@
     <div class="colophon-value">モブエンジニアの書庫</div>
   </div>
   <div class="colophon-row">
-    <div class="colophon-label">表紙</div>
-    <div class="colophon-value"><!-- 吉森由之助 --></div>
-  </div>
-  <div class="colophon-row">
     <div class="colophon-label">印刷</div>
-    <div class="colophon-value">しまなみ出版</div>
+    <div class="colophon-value">しまや出版</div>
   </div>
   <div class="colophon-row">
     <div class="colophon-label">連絡先</div>

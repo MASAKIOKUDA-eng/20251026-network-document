@@ -4,7 +4,6 @@ class: content
 
 <div class="doc-header">
   <div class="doc-title">陳腐化しない構成図を書いてみる</div>
-  <div class="doc-author">モブエンジニア</div>
 </div>
 
 ## はじめに

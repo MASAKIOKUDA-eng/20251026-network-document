@@ -4,7 +4,6 @@ class: content
 
 <div class="doc-header">
   <div class="doc-title">リソース名は誰もが分かる名称を付ける</div>
-  <div class="doc-author">モブエンジニア</div>
 </div>
 
 ## はじめに

@@ -4,7 +4,6 @@ class: content
 
 <div class="doc-header">
   <div class="doc-title">設計時のチームスキルに応じてサービスを選ぶ</div>
-  <div class="doc-author">モブエンジニア</div>
 </div>
 
 ## はじめに
