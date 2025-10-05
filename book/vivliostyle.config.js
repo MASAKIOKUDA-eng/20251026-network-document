@@ -25,5 +25,4 @@ module.exports = {
   output: ['output/ebook.pdf'],
   workspaceDir: '.vivliostyle',
   toc: false,
-  }
 }
