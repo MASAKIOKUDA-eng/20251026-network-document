@@ -9,7 +9,7 @@ module.exports = {
     'theme/theme-custom',
   ],
   entry: [
-    { front: 'cover/front.png' },
+    { rel: 'cover', path: 'cover/front.png' },
     'index.md',
     'preface.md',
     'docs/section1.md',
@@ -19,7 +19,7 @@ module.exports = {
     'docs/section5.md',
     'authors.md',
     'colophon.md',
-    { back: 'cover/back.png' }
+    { rel: 'cover', path: 'cover/back.png' }
   ],
   entryContext: './manuscripts',
   output: ['output/ebook.pdf'],
