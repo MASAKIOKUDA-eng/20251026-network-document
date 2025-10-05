@@ -19,7 +19,7 @@ module.exports = {
     'docs/section5.md',
     'authors.md',
     'colophon.md',
-    'cover/back.png', // 裏表紙を最後のページとして追加
+    'cover/back.md', // 裏表紙をMarkdownで指定
   ],
   entryContext: './manuscripts',
   output: ['output/ebook.pdf'],
