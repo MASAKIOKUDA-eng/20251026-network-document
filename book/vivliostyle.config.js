@@ -19,10 +19,15 @@ module.exports = {
     'docs/section5.md',
     'authors.md',
     'colophon.md',
-    'cover/back.md', // 裏表紙をMarkdownで指定
+    'cover/back.md', // 裏表紙（Markdownでラップ）
   ],
   entryContext: './manuscripts',
   output: ['output/ebook.pdf'],
   workspaceDir: '.vivliostyle',
   toc: false,
+  pressReady: true, // Press-readyを有効化
+  // カラー出力の設定
+  pressReadyOptions: {
+    gray: false, // グレースケール変換を無効化（カラーのまま出力）
+  },
 }
