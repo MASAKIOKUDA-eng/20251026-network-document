@@ -25,7 +25,6 @@ module.exports = {
   output: ['output/ebook.pdf'],
   workspaceDir: '.vivliostyle',
   toc: false,
-  pressReady: true, // Press-readyを有効化
   // カラー出力の設定
   pressReadyOptions: {
     gray: false, // グレースケール変換を無効化（カラーのまま出力）
