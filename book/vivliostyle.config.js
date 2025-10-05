@@ -8,7 +8,7 @@ module.exports = {
     '@mitsuharu/vivliostyle-theme-noto-sans-jp@0.1.4',
     'theme/theme-custom',
   ],
-    src: [
+    entry: [
       { front: 'cover/front.png' },
       'index.md',
       'preface.md',
