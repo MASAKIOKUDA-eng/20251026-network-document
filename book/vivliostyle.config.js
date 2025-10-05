@@ -25,8 +25,4 @@ module.exports = {
   output: ['output/ebook.pdf'],
   workspaceDir: '.vivliostyle',
   toc: false,
-  cover: [
-    { front: 'cover/front.png' },
-    { back: 'cover/back.png' }
-  ],
 }
