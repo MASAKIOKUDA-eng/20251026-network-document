@@ -8,8 +8,8 @@ module.exports = {
     '@mitsuharu/vivliostyle-theme-noto-sans-jp@0.1.4',
     'theme/theme-custom',
   ],
+  cover: 'cover/front.png', // 表表紙
   entry: [
-    { rel: 'cover', path: 'cover/front.png' },
     'index.md',
     'preface.md',
     'docs/section1.md',
@@ -19,7 +19,7 @@ module.exports = {
     'docs/section5.md',
     'authors.md',
     'colophon.md',
-    { rel: 'cover', path: 'cover/back.png' }
+    'cover/back.png', // 裏表紙を最後のページとして追加
   ],
   entryContext: './manuscripts',
   output: ['output/ebook.pdf'],
