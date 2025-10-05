@@ -16,4 +16,5 @@ class: exclude-hashira
 1. [リソース名は誰もが分かる名称を付ける](docs/section4.html)
 1. [セキュリティグループの設定は柔軟性を持たせる](docs/section5.html)
 1. [おわりに](epilogue.html)
+1. [付録](appendix.html)
 </nav>

@@ -21,6 +21,8 @@ module.exports = {
     'docs/section5.md', //セキュリティグループの設定は柔軟性を持たせる
     // おわりに
     'epilogue.md',
+    // 付録
+    'appendix.md',
     // 著者紹介
     'authors.md',
     // 奥付
