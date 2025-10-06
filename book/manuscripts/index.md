@@ -15,6 +15,7 @@ class: exclude-hashira
 1. [VPCで利用するアドレス範囲は慎重に](docs/section3.html)
 1. [リソース名は誰もが分かる名称を付ける](docs/section4.html)
 1. [セキュリティグループの設定は柔軟性を持たせる](docs/section5.html)
+1. [おまけ：ネットワーク初心者こそAWSを触ろう](docs/omake.html)
 1. [おわりに](epilogue.html)
 1. [付録](appendix.html)
 </nav>

@@ -17,6 +17,7 @@ module.exports = {
     'docs/section3.md',
     'docs/section4.md',
     'docs/section5.md',
+    'docs/omake.md',
     'authors.md',
     'colophon.md',
     'cover/back.md', // 裏表紙（Markdownでラップ）
