@@ -17,17 +17,14 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install Ghostscript and Poppler
-        run: sudo apt-get update && sudo apt-get install -y ghostscript poppler-utils
-
       - name: Install dependencies
         run: yarn install
 
-      - name: Build press PDF
-        run: yarn build:press
+      - name: Build PDF (Color)
+        run: yarn build  # ← build:press から build に変更
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
-          name: press.pdf 
-          path: book/output/press.pdf 
+          name: ebook-pdf
+          path: book/output/ebook.pdf  # ← press.pdf から ebook.pdf に変更
