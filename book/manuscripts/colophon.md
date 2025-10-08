@@ -37,10 +37,6 @@
     <div class="colophon-label">印刷所名</div>
     <div class="colophon-value">しまや出版</div>
   </div>
-  <div class="colophon-row">
-    <div class="colophon-label">連絡先</div>
-    <div class="colophon-value">https://x.com/mob_engineer</div>
-  </div>
 </div>
 
 ---
