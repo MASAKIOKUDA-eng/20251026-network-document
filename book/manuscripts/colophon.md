@@ -11,27 +11,24 @@
 <!--2023年5月15日--> 初版
 
 ---
+
 <div class="colophon-container">
   <div class="colophon-row">
     <div class="colophon-label">書名</div>
     <div class="colophon-value">AWSでNW設計を行うときに意識したい5つのこと</div>
   </div>
-<div class="colophon-container">
   <div class="colophon-row">
     <div class="colophon-label">発行サークル名</div>
     <div class="colophon-value">モブエンジニアの書庫</div>
   </div>
-<div class="colophon-container">
   <div class="colophon-row">
     <div class="colophon-label">発行責任者名</div>
     <div class="colophon-value">モブエンジニア</div>
   </div>
-<div class="colophon-container">
   <div class="colophon-row">
     <div class="colophon-label">発行責任者の連絡先</div>
     <div class="colophon-value">nuccokudamasaki@gmail.com</div>
   </div>
-<div class="colophon-container">
   <div class="colophon-row">
     <div class="colophon-label">初回発行日</div>
     <div class="colophon-value">2025年10月26日</div>
