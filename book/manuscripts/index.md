@@ -1,5 +1,6 @@
 ---
 class: exclude-hashira
+break-before: auto
 ---
 
 # AWSでNW設計を行うときに意識したい5つのこと

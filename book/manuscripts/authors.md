@@ -1,5 +1,6 @@
 ---
 class: exclude-hashira
+break-before: auto
 ---
 
 ## 著者紹介

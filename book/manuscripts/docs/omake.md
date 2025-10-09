@@ -1,5 +1,6 @@
 ---
 class: content
+break-before: auto
 ---
 
 <div class="doc-header">
