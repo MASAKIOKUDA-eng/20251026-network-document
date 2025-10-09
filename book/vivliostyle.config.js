@@ -8,7 +8,6 @@ module.exports = {
     '@mitsuharu/vivliostyle-theme-noto-sans-jp@0.1.4',
     'theme/theme-custom',
   ],
-  cover: 'cover/front.png', // 表表紙
   entry: [
     'index.md',
     'preface.md',
@@ -18,9 +17,10 @@ module.exports = {
     'docs/section4.md',
     'docs/section5.md',
     'docs/omake.md',
+    'epilogue.md',
+    'appendix.md',
     'authors.md',
     'colophon.md',
-    'cover/back.md', // 裏表紙（Markdownでラップ）
   ],
   entryContext: './manuscripts',
   output: ['output/ebook.pdf'],
