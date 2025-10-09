@@ -1,9 +1,4 @@
 ---
-
-<!-- markdownlint-disable MD041 -->
-<hr class="page-break" />
-<!-- markdownlint-enable MD041 -->
-
 <section class="colophon">
 
 ## AWSでNW設計を行うときに意識したい5つのこと <!--'23-->
